@@ -9,6 +9,8 @@
 
 *OUTPUT*:
 
+![image align](https://github.com/ANSH-SHARMA912/CHAT-APPLICATION/blob/7132bbd08f33e52fe2ae3f63447e2378b1b9d9a5/Screenshot%202026-06-20%20154308.png)
+
 A **Real-Time Chat Application** built using **Node.js**, **Express.js**, **Socket.IO**, and **React.js**, enabling instant communication between multiple users through WebSockets.
 
 ---
