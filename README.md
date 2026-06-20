@@ -1,5 +1,14 @@
 # Real-Time Chat Application 
 
+*COMPANY*: CODTECH IT SOLUTIONS
+*NAME*: ANSH SHARMA
+*INTERN ID*:CTIS6655
+*DOMAIN*: FULL STACK WEB DEVELOPMENT
+*DURATION*: 16 WEEKS
+*MENTOR*: NEELA SANTOSH
+
+*OUTPUT*:
+
 A **Real-Time Chat Application** built using **Node.js**, **Express.js**, **Socket.IO**, and **React.js**, enabling instant communication between multiple users through WebSockets.
 
 ---
